@@ -1,0 +1,47 @@
+ npm install @clerk/clerk-reac
+ {
+    * id:"user_3GRzA3lZoAKPfZzN5EU6Y4InUlD"
+    * object:"user"
+    * username:"joshua"
+    * first_name:"Josh"
+    * last_name:"arnold"
+    * locale:null
+    * image_url:"https://img.clerk.com/eyJ0eXBlIjoiZGVmYXVsdCIsImlpZCI6Imluc18zR1JpR2NoTW1wWnJBTFRsTmRYd1hZbHNhVjEiLCJyaWQiOiJ1c2VyXzNHUnpBM2xab0FLUGZaek41RVU2WTRJblVsRCIsImluaXRpYWxzIjoiSkEifQ"
+    * has_image:false
+    * primary_email_address_id:"idn_3GRzJ6kxRTt7BvwR3TCigGUSmbw"
+    * primary_phone_number_id:null
+    * primary_web3_wallet_id:null
+    * password_enabled:false
+    * two_factor_enabled:false
+    * totp_enabled:false
+    * backup_code_enabled:false
+    * phone_numbers:
+    * web3_wallets:
+    * passkeys:
+    * external_accounts:
+    * saml_accounts:
+    * enterprise_accounts:
+    * password_last_updated_at:1783949022258
+    * public_metadata:
+    * private_metadata:
+    * unsafe_metadata:
+    * external_id:null
+    * last_sign_in_at:null
+    * banned:false
+    * locked:false
+    * lockout_expires_in_seconds:null
+    * verification_attempts_remaining:10
+    * created_at:1783949022258
+    * updated_at:1783949472210
+    * delete_self_enabled:false
+    * bypass_client_trust:false
+    * create_organization_enabled:true
+    * create_organizations_limit:0
+    * last_active_at:null
+    * mfa_enabled_at:null
+    * mfa_disabled_at:null
+    * legal_accepted_at:null
+    * requires_password_reset:false
+    * deprovisioned:false
+    * profile_image_url:"https://www.gravatar.com/avatar?d=mp"
+}
